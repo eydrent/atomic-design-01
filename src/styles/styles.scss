@@ -6,12 +6,16 @@
 @import './variables';
 
 // Atoms
-@import 'ui/atoms/ImgIcon';
+@import './ui/atoms/Avatar';
+@import './ui/atoms/Icon';
+@import './ui/atoms/Button';
 
 // Molecules
+@import './ui/molecules/FollowProfileCard';
 
 // Organisms
 
 // Templates
+@import 'ui/organisms/UsersCardsSection';
 
 // Pages
